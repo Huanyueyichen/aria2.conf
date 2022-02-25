@@ -11,3 +11,8 @@ Windows下aria2配置文件
 2.在aria2文件夹下新建文本文档XXX.txt，重命名为aria2.session
 
 3.双击HideRun.vbs即可运行，如果要开机启动，则建立HideRun.vbs的快捷方式，放在C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup目录下，找不到ProgramData文件夹的，勾选显示隐藏文件夹
+
+4.Edge浏览器安装Aria2 for Edge插件地址：https://microsoftedge.microsoft.com/addons/detail/aria2-for-edge/jjfgljkjddpcpfapejfkelkbjbehagbh
+
+5.Chrome浏览器安装Aria2 for Chrome插件地址：https://chrome.google.com/webstore/detail/aria2-for-chrome/mpkodccbngfoacfalldjimigbofkhgjn
+
