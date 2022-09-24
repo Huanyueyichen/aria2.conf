@@ -2,7 +2,7 @@
 #
 #
 
-cd /home/yimeng/.aria2
+cd /home/user/.aria2
 
 RED_FONT_PREFIX="\033[31m"
 GREEN_FONT_PREFIX="\033[32m"
